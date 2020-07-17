@@ -42,7 +42,7 @@
     "@types/supertest": "^2.0.8",
     "chai": "^4.2.0",
     "coveralls": "^3.0.2",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "mocha": "^5.2.0",
     "nodemon": "^1.19.1",
     "nyc": "^13.0.1",
